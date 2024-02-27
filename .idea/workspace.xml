@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7ba4b56-6ea3-4e71-94f1-b4f2c5a1b55c" name="Changes" comment="Initial Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2cvehwliJHgJVNvuitC42PxACiq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AudioApp.executor": "Run",
+    "Application.JBManagerPanel.executor": "Run",
+    "Application.JBPopupMenu.executor": "Run",
+    "Application.JBSmallWindow.executor": "Run",
+    "Application.JBee.executor": "Run",
+    "Application.NameEditor.executor": "Run",
+    "Application.SecurityPanel.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projects/jcps-projects/JBee",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\jcps-projects\JBee" />
+      <recent name="D:\Projects\jcps-projects\JBee\src\main\java" />
+      <recent name="D:\Projects\jcps-projects\JBee\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\jcps-projects\JBee\src\main\resources" />
+      <recent name="D:\Projects\jcps-projects\JBee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JBee">
+    <configuration name="AudioApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.runner.applet.AudioApp" />
+      <module name="JBee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objectbox.runner.applet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBManagerPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.runner.gui.JBManagerPanel" />
+      <module name="JBee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objectbox.runner.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBPopupMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.gui.lwcomp.JBPopupMenu" />
+      <module name="JBee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objectbox.gui.lwcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBSmallWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.gui.lwcomp.JBSmallWindow" />
+      <module name="JBee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objectbox.gui.lwcomp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBee" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.runner.gui.JBee" />
+      <module name="JBee" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.objectbox.runner.gui.SecurityPanel" />
+      <module name="JBee" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.objectbox.runner.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JBee" />
+      <item itemvalue="Application.AudioApp" />
+      <item itemvalue="Application.JBManagerPanel" />
+      <item itemvalue="Application.JBPopupMenu" />
+      <item itemvalue="Application.JBSmallWindow" />
+      <item itemvalue="Application.SecurityPanel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SecurityPanel" />
+        <item itemvalue="Application.JBManagerPanel" />
+        <item itemvalue="Application.JBSmallWindow" />
+        <item itemvalue="Application.JBPopupMenu" />
+        <item itemvalue="Application.AudioApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ba4b56-6ea3-4e71-94f1-b4f2c5a1b55c" name="Changes" comment="" />
+      <created>1708996603409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708996603409</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1709034236984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709034236984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/objectbox/runner/applet/AudioApp.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
