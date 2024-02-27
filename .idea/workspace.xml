@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7ba4b56-6ea3-4e71-94f1-b4f2c5a1b55c" name="Changes" comment="Initial Commit" />
+    <list default="true" id="e7ba4b56-6ea3-4e71-94f1-b4f2c5a1b55c" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-doc/JBee Help.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-doc/JBee Help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-doc/Using JBee.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-doc/Using JBee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-doc/create-applet.html" beforeDir="false" afterPath="$PROJECT_DIR$/html-doc/create-applet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-doc/files/banner-styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-doc/files/banner-styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html-doc/files/iconochive.css" beforeDir="false" afterPath="$PROJECT_DIR$/html-doc/files/iconochive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabee.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javabee.security" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/objectbox/runner/gui/JBee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/objectbox/runner/gui/JBee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +26,28 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cvehwliJHgJVNvuitC42PxACiq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,8 +66,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Projects/jcps-projects/JBee",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -149,9 +175,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SecurityPanel" />
-        <item itemvalue="Application.JBManagerPanel" />
         <item itemvalue="Application.JBSmallWindow" />
         <item itemvalue="Application.JBPopupMenu" />
+        <item itemvalue="Application.JBManagerPanel" />
         <item itemvalue="Application.AudioApp" />
       </list>
     </recent_temporary>
@@ -196,17 +222,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/objectbox/runner/applet/AudioApp.java</url>
-          <line>95</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Clean up of files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clean up of files" />
   </component>
 </project>
