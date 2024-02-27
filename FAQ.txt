@@ -1,0 +1,84 @@
+
+JBee 1.0 from objectBOX - Honey for your Java  4 Nov, 1999
+================================================================================
+
+The JBee FAQ
+
+Q: What is JBee?
+
+A: JBee represents an alternative to browsers in order to run 
+applets (and applications implemented as applets). JBee caches both 
+images and java bytecodes. It will also check for newer versions of 
+applets. Changing parameters and applet properties is easily done
+in the JBee manager. This version will also let you create 'Applet-
+desktops', which mean you may start several applets at once and JBee 
+will remember their sizes and positions the next time you start them.
+
+Q: Who is going to use JBee?
+
+A: You and many others who doesn't want to rely on a browser to run 
+your favourite java software.
+
+Q: What are the advantages of JBee versus Java-enabled browsers?
+
+A1. A page on a browser is not the right way to run applications. With
+JBee on the clients, you deploy your application (as an applet) on a web
+server, let the client JBees snoop them up, and then ...GO!. Adjust the 
+security settings (from high to medium or low) when you trust the applet 
+and want to let it access servers or have access to your printer and disk. 
+Se below for details on security.
+
+A2. The new wave of surfing on the internet is here: APPLET-SURFING: discover 
+all the weird and fantastic applets deployed on the internet. Try a search for 
+'pacman' and see, test and install the results.
+
+Q: How do I use JBee?
+
+A: The 'Start'-button is similar to Windows' Start-menu. Use it to launch applets.
+Use JBee Search and Admin to create folders and organize applets as well as install 
+applets. The search panel lets you search for applets either by typing in keywords 
+or by typing an URL.
+
+Q: Why do JBee crash sometimes and leave applets unaccessible and 'dangling'?
+
+A: Misbehaving applets may cause JBee to crash or create dead threads. 
+JBee is not an operating system, all applets share the same JVM.
+
+Q: How do I submit a bug or a feature request?
+
+A: Use the Feedback menu to pop up a feedback dialog. You may also send email 
+to feedback@javabee.com.
+
+Q: How is security implemented in JBee?
+
+A: This version of JBee comes with three preinstalled security models:
+
+1 - High security (default) - similar to browsers - very few things allowed
+2 - Medium security - printer access allowed
+3 - Low security - basically no security with complete disk access and printer access
+
+Contact us if you want details on the security models.
+
+Q: How can I access applets stored on web pages requiring HTTP authentication?
+
+A: The upcoming JBee pro (commercial version) will support this along with other 'pro' features 
+(and without any advertisements)
+
+
+Hope you find JBee useful!
+
+regards,
+
+objectBOX Development Team
+
+objectBOX
+Øvre Kråkenes 17
+N-5152 Bønes
+Norway
+Europe
+
+Phone: 	+47 55 98 12 80
+Fax: 	+47 55 98 12 81
+www: 	http://www.objectbox.com or http://www.javabee.com
+
+
